@@ -5,13 +5,16 @@ tenure: "2010 – present"
 subtitle: "Infra. Technology Specialist"
 ---
 
-- Recognised as the Associate of the Quarter twice (Q2, 2011; Q4, 2016).
-- Led the PowerShell-based automation community at the Sub-Business Unit level.
-- Implemented over sixty PowerShell-based automation projects for the client.
-- Part of the pan-organisation Microsoft community, contribute to automations.
+My current client is a renowned paper manufacturer in the US. I work as part of the Wintel Team, which initially handled the client’s Citrix and Exchange environments, but grew to be the largest contributor among all our IT teams to security update compliance, performance management, service improvement and automation.
+- I helped our teams with a custom PowerShell module, with over 60 functions for
+simplified hiring and termination, backup, clean-up, migration, capacity management, server healing, troubleshooting and auditing.
+- I led the implementation of SCOM, collaborating with the Windows Infrastructure team. Simultaneously, I also helped my team in the migration to
+SCCM for updates; automated updates increased the update compliance by 31%.
+- Over the last year, I revisited and automated several audit reports, leading to over 36 hours a month saved in creating the reports. The simplification also
+reduced the time required to understand and leverage the data by about half.
 <!--more-->
 
-#### Current job role
+#### Projects worked on
 
 ##### Infra. Technology Specialist
 
