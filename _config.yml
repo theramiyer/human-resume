@@ -31,21 +31,20 @@ collections:
   experience:
     name: Experience
     output: true
-    permalink: /experience/:name/
+    permalink: /:collection/:name/
     sequence: 1
-  achievements:
-    name: Achievements
-    displayname: Achievements and Certifications
+  certifications:
+    name: Certifications
     output: true
-    permalink: /achievements/:name/
+    permalink: /:collection/:name/
     sequence: 2
+  off-work:
+    name: Off-work
+    output: true
+    permalink: /:collection/:name/
+    sequence: 3
   education:
     name: Education
     output: true
-    permalink: /education/:name/
-    sequence: 3
-  extracurricular:
-    name: Extracurricular
-    output: true
-    permalink: /extracurricular/:name/
+    permalink: /:collection/:name/
     sequence: 4

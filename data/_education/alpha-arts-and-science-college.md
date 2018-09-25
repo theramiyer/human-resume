@@ -5,9 +5,4 @@ subtitle: "B.Sc. (Electronics and Communications)"
 tenure: "2007 – 2010"
 ---
 
-- University of Madras rank-holder in Major (13<sup>th</sup>).
-- Recognised as the Best Outgoing Student (2007 -- ’10 batch).
-- Served as the President of the Students' Forum.
-<!--more-->
-- Served as the Editor of the yearly departmental magazine.
-- Participated and won awards in several national- and state-level intercollegiate competitions.
+During my time here, I served as the President of the Students’ Forum, as well as the Editor of our departmental journal. I graduated as the Best Outgoing Student of the batch, along with a University rank in my Major.

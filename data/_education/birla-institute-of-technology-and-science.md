@@ -5,6 +5,7 @@ subtitle: "M.Tech. (Software Engineering)"
 tenure: "2013 – 2017"
 ---
 
-- Studied through the Work-integrated Learning Programme (8-semester).
-- Created a Windows Forms- and PowerShell-based GUI tool for management of Windows computers for dissertation.
-- Studied Cloud Computing and Infrastructure as a Code as part of the curriculum.
+- The course made me aware of all of those developments and practises in the
+field with a practical approach, including the concepts of Cloud Computing
+and IaaC.
+- For my dissertation, I developed a GUI-based Windows administration tool written in PowerShell, which when implemented in Cognizant, helped 18 clients by reducing the turn-around and resolution windows by ~25%.
