@@ -15,7 +15,7 @@ a::after {
   margin-left: 0.10em;
   font-size: 90%;
   top: -0.10em;
-  color: #933;
+  color: red;
 }
 
 strong {
