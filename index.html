@@ -38,6 +38,9 @@ layout: default
     {% for section in sections %}
       {% if section.name %}
         <div class="twelve columns">
+          <div class="summary">
+            Since my days as a trainee, I have been drawn to simplifying operations. As a Technology Specialist, I help our clients with tailored solutions ranging from in-house PowerShell scripts, monitoring solutions, infrastructure automation, to cloud migration plans.
+          </div>
           {% assign name = section.name | slugify %}
           <div class="section" id="{{ name }}">
             <a href="#{{ name }}">{% if section.displayname %}{{ section.displayname }}{% else %}{{ name }}{% endif %}</a>

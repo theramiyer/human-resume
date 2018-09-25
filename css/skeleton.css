@@ -53,6 +53,9 @@ strong {
   text-transform: lowercase;
   text-align: center;
 }
+.summary {
+  margin-top: 5%;
+}
 .section {
   font-size: 1.5rem;
   line-height: 1.3;
