@@ -16,17 +16,17 @@ reduced the time required to understand and leverage the data by about half.
 
 #### Projects I drove and/or worked on
 
-- Servers in our environment were not monitored. As part of Wintel, I drove the implementation, starting from the sizing and design to setting up administrative practices.
-- Being passionate about automation, I created custom PowerShell modules that would help teams reduce several weeks' worth of manual effort a year. These automations include:
+- Servers in our environment were not monitored. I drove the implementation of SCOM&nbsp;2016, right from the sizing and design to setting up administrative practices.
+- Being passionate about automation, I created custom PowerShell modules that would help teams reduce several weeks' worth of manual effort a year. Some of the highlights are:
   - A script that attempts to revive XenApp VDA servers unregistered with the Controller, unattended, as though an administrator were reviving them.
-  - Scripts to create inventory reports that take in data from multiple locations to intelligently identify gaps.
+  - Scripts to create inventory reports that take in data from various sources (VMware, Active Directory, even Excel) to intelligently identify gaps and perform unattended audits.
   - Scripts to create compliance reports, with input from various sources.
   - Scripts to ease Exchange administration.
   - Scripts that help other teams simplify their long-running tasks, such as user account termination.
 - In order to deter email spoofing, we implemented DMARC in our environment. I helped set up DMARC report analysis using [dmarcian](https://dmarcian.com/), and liaised with several teams to authorise partner domains to send emails on behalf of us.
-- We had Compuware ClientVantage in our environment, which was deprecated. I helped size and design the environment for Solarwinds Web Performance Monitor, did a proof-of-concept, and finally, set up the transactions in order to help teams maintain an application availability of >99%.
+- We had Compuware ClientVantage in our environment, which was deprecated by the vendor. I helped size and design the environment for Solarwinds Web Performance Monitor, did a proof-of-concept, and finally, set up the transactions in order to help teams maintain an application availability score of >99%.
 - I drove the implementation of PowerWin, a Windows-Forms-and-PowerShell-based GUI tool for Windows administration, for several clients, that helped speeding up troubleshooting and planning by up to 25%.
-- Being passionate about Microsoft products, and especially, automation in them, I work with several other teams within Cognizant to help them reduce manual effort and human errors, where possible.
+- Being passionate about Microsoft products, and especially, automation in them, I work with many other teams within Cognizant to help them reduce manual effort and human errors, where possible.
 
 #### Technological specialisation
 
