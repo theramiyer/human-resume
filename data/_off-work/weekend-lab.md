@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "There’s more"
+title: "The Weekend Lab"
 subtitle: "All work and no play makes…"
 sequence: 3
 ---
