@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Birla Institute of Technology and Science, Pilani"
-subtitle: "MTech (Software Engineering, Work-Integrated)"
+subtitle: "M.Tech (Software Engineering, Work-Integrated)"
 tenure: "2013 – 2017"
 ---
 
