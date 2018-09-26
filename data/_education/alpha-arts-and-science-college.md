@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Alpha Arts and Science College, Chennai"
-subtitle: "B.Sc. (Electronics and Communications)"
+subtitle: "BSc (Electronics and Communications)"
 tenure: "2007 – 2010"
 ---
 
