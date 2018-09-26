@@ -99,7 +99,7 @@ h1 a::after, h2 a::after, h3 a::after, h4 a::after, h5 a::after, h6 a::after {
 }
 h4, h5 {
   font-family: 'Alegreya Sans SC';
-  letter-spacing: 0.05em;
+  letter-spacing: 0.02em;
 }
 blockquote {
   font-size: 1.8rem;
