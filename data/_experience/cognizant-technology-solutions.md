@@ -23,30 +23,16 @@ reduced the time required to understand and leverage the data by about half.
   - Scripts to create compliance reports, with input from various sources.
   - Scripts to ease Exchange administration.
   - Scripts that help other teams simplify their long-running tasks, such as user account termination.
-- In order to deter email spoofing, we implemented DMARC in our environment. I helped set up DMARC report analysis using DMARCIAN, and liaised with several teams to authorise partner domains to send emails on behalf of us.
+- In order to deter email spoofing, we implemented DMARC in our environment. I helped set up DMARC report analysis using [dmarcian](https://dmarcian.com/), and liaised with several teams to authorise partner domains to send emails on behalf of us.
 - We had Compuware ClientVantage in our environment, which was deprecated. I helped size and design the environment for Solarwinds Web Performance Monitor, did a proof-of-concept, and finally, set up the transactions in order to help teams maintain an application availability of >99%.
 - I drove the implementation of PowerWin, a Windows-Forms-and-PowerShell-based GUI tool for Windows administration, for several clients, that helped speeding up troubleshooting and planning by up to 25%.
 - Being passionate about Microsoft products, and especially, automation in them, I work with several other teams within Cognizant to help them reduce manual effort and human errors, where possible.
 
 #### Technological specialisation
 
-- Windows PowerShell.
-- Understanding of container-based infrastructure.
-- Trained and certified in Microsoft Azure (Infrastructure).
-- System Center Operations Manager (currently implementing SCOM&nbsp;2016).
-- Solarwinds Web Performance Monitor.
-- Microsoft Exchange&nbsp;2010.
-
-#### Other technologies worked on
-
-- Windows PowerShell, including PowerShell modules for:
-  - Microsoft Exchange 2010
-  - Microsoft System Center
-  - VMware vSphere (PowerCLI)
-  - Citrix XenApp&nbsp;7.6
-  - Active Directory
-- Microsoft System Center&nbsp;2016 Operations Manager
-- Microsoft Exchange Server&nbsp;2010
+- Windows PowerShell and PowerShell&nbsp;6.0
+- Trained and certified in Microsoft Azure (Infrastructure)
+- Microsoft System Center&nbsp;2016 (SCOM, SCCM, SCEP)
+- Microsoft Exchange&nbsp;2010
 - Solarwinds Web Performance Monitor
-- Microsoft System Center Endpoint Protection
-- Windows Server 2008&nbsp;R2, 2012&nbsp;R2
+- Understanding of container-based infrastructure
