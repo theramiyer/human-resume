@@ -108,3 +108,29 @@ blockquote {
   padding-left: 1.5rem;
   border-left: 0.5rem solid #ccc;
 }
+.download-button {
+  border: none;
+  display: inline-block;
+  padding: 0.5em 0.9em;
+  vertical-align: middle;
+  overflow: hidden;
+  text-decoration: none;
+  cursor: pointer;
+  font-family: 'Alegreya Sans SC';
+  text-transform: lowercase;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  border-radius: 0.25em;
+  color: #FFF;
+  background: #222;
+  transition: all 0.3s ease-in-out;
+  line-height: 1.3em;
+  margin-bottom: 0.25em;
+}
+.download-button::after {
+  content: none;
+}
+.download-button:hover {
+  color: #222;
+  background: none;
+}
