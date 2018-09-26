@@ -24,8 +24,8 @@ reduced the time required to understand and leverage the data by about half.
   - Scripts to ease Exchange administration.
   - Scripts that help other teams simplify their long-running tasks, such as user account termination.
 - In order to deter email spoofing, we implemented DMARC in our environment. I helped set up DMARC report analysis using DMARCIAN, and liaised with several teams to authorise partner domains to send emails on behalf of us.
-- We had Compuware ClientVantage in our environment, which was deprecated. I helped size and design the environment for Solarwinds Web Performance Monitor, did a proof-of-concept, and finally, set up the transactions in order to help teams maintain an application availability of **>99%**.
-- I drove the implementation of PowerWin, a Windows-Forms-and-PowerShell-based GUI tool for Windows administration, for several clients, that helped speeding up troubleshooting and planning by **up to 30%**.
+- We had Compuware ClientVantage in our environment, which was deprecated. I helped size and design the environment for Solarwinds Web Performance Monitor, did a proof-of-concept, and finally, set up the transactions in order to help teams maintain an application availability of >99%.
+- I drove the implementation of PowerWin, a Windows-Forms-and-PowerShell-based GUI tool for Windows administration, for several clients, that helped speeding up troubleshooting and planning by up to 30%.
 - Being passionate about Microsoft products, and especially, automation in them, I work with several other teams within Cognizant to help them reduce manual effort and human errors, where possible.
 
 #### Technological specialisation
