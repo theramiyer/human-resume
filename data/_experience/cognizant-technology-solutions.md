@@ -19,7 +19,7 @@ reduced the time required to understand and leverage the data by about half.
 - Being passionate about automation, I created custom PowerShell modules that would help teams reduce several weeks' worth of manual effort a year. These automations include:
   - A script that performs automated, unattended disaster recovery using the Nutanix and PowerCLI modules.
   - A script that attempts to revive XenApp VDA servers unregistered with the Controller, unattended, as though an administrator were reviving them.
-  - Scripts to create inventory reports that take in data from multiple locations to intelligently identify gaps.
+  - Scripts to create inventory reports that take in data from various sources (VMware, Active Directory, even Excel) to intelligently identify gaps and perform unattended audits.
   - Scripts to create compliance reports, with input from various sources.
   - Scripts to ease Exchange administration.
   - Scripts that help other teams simplify their long-running tasks, such as user account termination.
