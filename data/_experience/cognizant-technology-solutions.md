@@ -7,7 +7,7 @@ subtitle: "Infra. Technology Specialist"
 
 My current client is a renowned paper manufacturer in the US. I work as part of the Wintel Team, which initially handled the client’s Citrix and Exchange environments, but grew to be the largest contributor among all our IT teams to security update compliance, performance management, service improvement and automation.
 - I helped our teams with custom PowerShell modules, with over 60 functions for
-simplified hiring and termination, backup, clean-up and migration of data, capacity management, server healing, troubleshooting and auditing and disaster recovery.
+simplified hiring and termination, backup, clean-up and migration of data, capacity management, server healing, troubleshooting and auditing, and disaster recovery.
 - I led the implementation of SCOM, collaborating with the Windows Infrastructure team. Simultaneously, I also helped my team in the migration to
 SCCM for updates; automated updates increased the update compliance by 31%.
 - Over the last year, I revisited and automated several audit reports, leading to over 36 hours a month saved in creating the reports. The simplification also
