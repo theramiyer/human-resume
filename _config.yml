@@ -14,7 +14,7 @@ website: ramiyer.me
 
 download: "https://1drv.ms/b/s!AulNdrpG_oDbpdk8UGYNqFAYvhR5IQ"
 
-summary: Since my days as a trainee, I have been drawn to simplifying operations. As a Technology Specialist, I help our clients with tailored solutions ranging from in-house PowerShell modules, monitoring solutions, infrastructure automation, to cloud migration plans.
+summary: Since my days as a trainee, I have been drawn to simplifying operations. As a Technology Specialist and co-author of a book on PowerShell, I help our clients with tailored solutions ranging from monitoring solutions to PowerShell modules for infrastructure automation.
 
 baseurl: /
 url: "//resume.ramiyer.me" # the base hostname & protocol for your site

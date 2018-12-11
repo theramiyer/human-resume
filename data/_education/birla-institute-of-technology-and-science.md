@@ -5,7 +5,7 @@ subtitle: "M.Tech (Software Engineering, Work-Integrated)"
 tenure: "2013 – 2017"
 ---
 
-- The course made me aware of all of those developments and practises in the
+- The course made me aware of the developments and practises in the
 field with a practical approach, including the concepts of Cloud Computing
 and IaaC.
-- For my dissertation, I developed a GUI-based Windows administration tool written in PowerShell, which when implemented in Cognizant, helped 18 clients by reducing the turn-around and resolution windows by ~25%.
+- For my dissertation, I developed a _GUI-based Windows administration tool written in PowerShell_, which when implemented in Cognizant, helped 18 clients by reducing the turn-around and resolution windows by ~25%.
