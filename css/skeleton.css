@@ -35,23 +35,17 @@ strong {
   font-family: 'Alegreya Sans SC';
   font-weight: 500;
 }
-.address {
+.address, .contact {
   font-size: 1.7rem;
   line-height: 1.25;
   margin-bottom: 1rem;
-  letter-spacing: 0.25rem;
+  letter-spacing: 0.15rem;
   font-family: 'Alegreya Sans SC';
   text-transform: lowercase;
   text-align: center;
 }
 .contact {
-  font-size: 1.7rem;
-  line-height: 1.25;
   margin-bottom: 2rem;
-  letter-spacing: 0.25rem;
-  font-family: 'Alegreya Sans SC';
-  text-transform: lowercase;
-  text-align: center;
 }
 .summary {
   margin-top: 5%;
