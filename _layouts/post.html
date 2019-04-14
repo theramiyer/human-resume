@@ -24,7 +24,7 @@ class: 'post-template'
       </div>
     </div>
     {% if page.subtitle %}
-    <div class="role">{{ page.subtitle }}</div>
+    <div class="role">{{ page.subtitle | markdownify }}</div>
     {% endif %}
   </div>
 </header>
