@@ -32,7 +32,7 @@ layout: default
         {% endif %}
       </div>
       <div class="summary">
-        {{ site.summary }}
+        {{ site.summary | markdownify }}
       </div>
     </div>
     <!-- Programmatically loaded content -->
