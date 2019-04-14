@@ -62,7 +62,7 @@ layout: default
             </div>
           </div>
           <div class="role">
-            {{ item.subtitle }}
+            {{ item.subtitle | markdownify }}
           </div>
           <div>
             {% if item.content contains "<!--more-->" %}
