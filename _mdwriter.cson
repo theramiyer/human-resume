@@ -93,7 +93,7 @@ textStyles:
   code:
     before: "`", after: "`"
   bold:
-    before: "**", after: "**"
+    before: "<span class='small-caps'>", after: "</span>"
   italic:
     before: "_", after: "_"
   keystroke:
