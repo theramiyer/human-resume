@@ -13,7 +13,7 @@ As an Infrastructure person, setting up the site on the cloud (and not GitHub Pa
 
 1. I add data (Markdown files) to the code project as posts. These changes are pushed to BitBucket, the source control provider for the site.
 2. Wercker (a Docker-based continuous delivery platform) is triggered as soon as there's a push; it picks up the code from BitBucket.
-3. Wercker has two pipelines, `build` and `deploy`, which, of course, build the site using Jekyll (on a Ruby box), and deploy it to the AWS&nbsp;S3 bucket that hosts the site.
+3. Wercker has two pipelines, `build` and `deploy`, which, of course, build the site using Jekyll (on a Ruby box), and deploy it to the AWS S3 bucket that hosts the site.
 4. CloudFront is the CDN that delivers the contents of the S3 bucket, to the Web.
 5. Amazon's Certificate Manager provides the SSL certificate that encrypts connections to this site.
 6. Necessary DNS entries are added to the DNS zone file.
@@ -22,7 +22,7 @@ Now to the detailed picture. (This part has been published as a [GitHub Gist](ht
 
 #### Setting up Jekyll
 
-This document has been created for Windows&nbsp;10 Pro. While building the site locally is not entirely necessary, it helps when you need to build the site locally to test out its working.
+This document has been created for Windows 10 Pro. While building the site locally is not entirely necessary, it helps when you need to build the site locally to test out its working.
 
 Enable the [Linux Subsystem on Windows](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide) feature, and install the necessary components required to be able to build sites using Jekyll. While there may be seemingly less-complicated ways to set up Jekyll on Windows without WSL, setting it up with WSL is much less hassle. [This post](http://daverupert.com/2016/04/jekyll-on-windows-with-bash/) by Dave Rupert helps a great deal with it. Also, some of the [Nokogiri binaries](http://daverupert.com/2016/06/ruby-on-rails-on-bash-on-ubuntu-on-windows/) need to be installed.
 
@@ -37,9 +37,9 @@ I wanted to build an uncomplicated site, so I used the [Skeleton](http://getskel
 
 I chose the latter. Sure, I still had to make a few changes to optimise the site, but hey, what's life without adventures?
 
-#### Configuring the Amazon&nbsp;S3 bucket
+#### Configuring the Amazon S3 bucket
 
-Now comes the creation of the Amazon&nbsp;S3 bucket that would host the site contents:
+Now comes the creation of the Amazon S3 bucket that would host the site contents:
 
 1. Go to the [S3 Management Console](https://console.aws.amazon.com/s3). The prerequisite to this is that you have an AWS account.
 2. Click on **Create bucket**.
@@ -122,7 +122,7 @@ Wercker needs to authenticate itself to push content to the S3 bucket. We'll set
 11. Click on **Create user**.
 12. In the next screen, you'll get the **Access key ID** and **Secret key**. Note these down in a safe place.
 
-#### Configuring Wercker to build and deploy the site to Amazon&nbsp;S3
+#### Configuring Wercker to build and deploy the site to Amazon S3
 
 This is a little tricky part, since we have outdated documentation surrounding it, on the Internet, for now. New users will have a hard time hunting around to get this information. The reason for this is that Wercker apparently changed the underlying system, by introducing Docker. This has brought in some changes to workflows, which obviously brings in subsequent user-facing changes.
 
