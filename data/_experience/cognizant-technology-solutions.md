@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Cognizant Technology Solutions"
-tenure: "2010 – present"
+tenure: "2010 – 2019"
 subtitle: "Infra. Technology Specialist"
 ---
 
@@ -10,7 +10,7 @@ I lead the offshore Infrastructure team for a renowned paper manufacturer in the
 - I specialise in PowerShell; built modules, with tens of functions for backup, clean-up, auto-healing, auditing, and disaster recovery.
 - I have led implementations of <span class='small-caps'><span class='small-caps'>SCOM</span></span>, <span class='small-caps'>SCCM</span>, Citrix XenApp 7.15, <span class='small-caps'>DMARC</span>, etc. Ask me about my experience with the projects.
 - Recently, I accepted additional responsibility in Active Directory, File Services, VMware infrastructure, and Nutanix.
-- I also train fellow associates on PowerShell, helping them transition to automation teams across the organisation.
+- I also trained fellow associates on PowerShell, helping them transition to automation teams across the organisation.
 <!--more-->
 - Over the last year, I revisited and automated several audit reports, leading to over 36 hours a month saved in creating the reports. The simplification also reduced the time required to understand and leverage the data by about half.
 
@@ -28,7 +28,7 @@ I lead the offshore Infrastructure team for a renowned paper manufacturer in the
 - Servers in our environment were not monitored efficiently. As part of Wintel, I drove the implementation of <span class='small-caps'>SCOM</span>, starting from the sizing and design to setting up administrative practices.
 - We had Compuware ClientVantage in our environment, which was deprecated. I helped size and design the environment for Solarwinds Web Performance Monitor, did a proof-of-concept, and finally, set up the transactions in order to help teams maintain an application availability of >99%.
 - I drove the implementation of PowerWin, a Windows-Forms-and-PowerShell-based <span class='small-caps'>GUI</span> tool for Windows administration, for several clients, that helped speeding up troubleshooting and planning by up to 27%.
-- Having eight years of exposure in Microsoft products, and especially, automation in them, I work with several other teams in the Microsoft Community within Cognizant to help them with solutions for their clients.
+- Having eight years of exposure in Microsoft products, and especially, automation in them, I worked with several other teams in the Microsoft Community within Cognizant to help them with solutions for their clients.
 
 #### Technological specialisation
 

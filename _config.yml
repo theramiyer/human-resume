@@ -13,7 +13,7 @@ website: ramiyer.me
 
 download: "https://github.com/theramiyer/human-resume-latex/blob/master/Ram%20Iyer.pdf"
 
-summary: I am a _Technology Specialist_, drawn to simplifying operations. I tailor solutions, ranging from monitoring to PowerShell modules for infrastructure automation. I am also a _published co-author_ of a book on PowerShell.
+summary: I am an _Automation Expert_, drawn to simplifying operations. I build solutions, ranging from PowerShell modules for infrastructure automation to Infrastructure as Code. I am also a _published co-author_ of a book on PowerShell.
 
 baseurl: /
 url: "//resume.ramiyer.me" # the base hostname & protocol for your site
