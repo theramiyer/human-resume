@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Merck Group"
+title: "Merck KGaA"
 tenure: "2019 – present"
 subtitle: "Expert (Automation, IT Infrastructure)"
 ---
