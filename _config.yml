@@ -6,9 +6,9 @@ title: Ram Iyer’s Résumé
 description: Ram Iyer’s online résumé
 
 name: "Ramakrishnan R.&hairsp;Iyer" # Your full name here
-address: "202, Siri Fortune, 18<sup>th</sup> Cross, Purnapragna Layout, Bangalore, KA 560061"
-email: "&#99;&#97;&#114;&#101;&#101;&#114;&#64;&#114;&#97;&#109;&#105;&#121;&#101;&#114;&#46;&#105;&#111;" # Encoded in order to prevent spam
-phone: "&#43;&#57;&#49;&#57;&#57;&#48;&#49;&#57;&#55;&#53;&#50;&#54;&#55;"
+address: "101, Hidden Address, Bangalore, KA, India" # "202, Siri Fortune, 18<sup>th</sup> Cross, Purnapragna Layout, Bangalore, KA 560061"
+email: "hidden@domain.com" # "&#99;&#97;&#114;&#101;&#101;&#114;&#64;&#114;&#97;&#109;&#105;&#121;&#101;&#114;&#46;&#105;&#111;" # Encoded in order to prevent spam
+phone: "+91 00000 00000" # "&#43;&#57;&#49;&#57;&#57;&#48;&#49;&#57;&#55;&#53;&#50;&#54;&#55;"
 website: ramiyer.io
 
 download: "https://github.com/theramiyer/human-resume-latex/releases/latest/download/Ram.Iyer.pdf"
