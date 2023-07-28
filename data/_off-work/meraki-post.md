@@ -6,7 +6,7 @@ subtitle: "IT Architect, Book Reviewer, Podcaster (because, passion)"
 sequence: 2
 ---
 
-A few of us friends started a site, [Meraki Post](https://www.merakipost.com). It has been a journey to better control, performance and UX, with  [Jekyll](https://jekyllrb.com/), [GitLab CI](https://about.gitlab.com/features/gitlab-ci-cd/), [<span class='small-caps'>AWS</span> S3](https://aws.amazon.com/s3/), [CloudFront](https://aws.amazon.com/cloudfront/) and [Slack](https://slack.com/). Ask me about what I built!
+A few of us friends started a site, [Meraki Post](https://www.gitlab.com/merakipost/merakipost). It has been a journey to better control, performance and UX, with  [Jekyll](https://jekyllrb.com/), [GitLab CI](https://about.gitlab.com/features/gitlab-ci-cd/), [<span class='small-caps'>AWS</span> S3](https://aws.amazon.com/s3/), [CloudFront](https://aws.amazon.com/cloudfront/) and [Slack](https://slack.com/). Ask me about what I built!
 <!--more-->
 
 #### The Story
