@@ -8,10 +8,9 @@ subtitle: "Expert (Automation, IT Infrastructure)"
 I am part of the Infrastrucure as Code team under Windows Hosting. We built a solution based on Infrastrucure as Code principles to automate Windows Server builds and maintain immutable configuration on them.
 
 - A green field solution that we built in-house, using PowerShell, Azure DevOps (including <span class='small-caps'>CI</span>/<span class='small-caps'>CD</span>), PowerShell <span class='small-caps'>DSC</span>, <span class='small-caps'>MS SQL</span>, Chocolatey, etc.
-- We built the solution from scratch, finding the best possible solutions for the requirements, following best practices in the industry.
-- We are a fully self-managed Agile team, who won the <span class='small-caps'>CIO</span>'s Excel award for efficienct automation using Infrastructure as Code.
+- The solution was built from scratch, finding the best possible solutions for the requirements, following best practices in the industry.
+- I work as part of a fully self-managed Agile global team, spread across three countries; we won the <span class='small-caps'>CIO</span>'s Excel award for efficienct automation using Infrastructure as Code.
 <!--more-->
-- We are a multi-speciality team spread across three countries, who learn technologies as they become available and seem usable. We raise the bar at every opportunity and break barriers.
 - I have been involved in automations involving <span class='small-caps'>REST</span> and <span class='small-caps'>SOAP API</span>s, including <span class='small-caps'>HPSM</span>, CyberArk, Infoblox, etc.
 - We constantly collaborate with the other teams and interact with the Business to understand requirements and offer best possible solutions.
 - We incorporate security best practices is into the <span class='small-caps'>DNA</span> of our solution, be it standards such as <span class='small-caps'>NIST</span> recommendations.
